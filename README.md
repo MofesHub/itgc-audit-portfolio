@@ -8,4 +8,4 @@ Simulated Internal IT General Controls (ITGC) Audit – Healthcare Environment
 - Controls-Matrix.xlsx — design and operating effectiveness testing  
 - Findings-Register.xlsx — documented audit findings and recommendations  
 - Final-Audit-Report.pdf — executive-ready audit report  
-- Methodology.md — audit judgment and risk calibration approach
+- Methodology.md — audit judgment and risk calibration approach 
